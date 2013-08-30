@@ -4,7 +4,7 @@
   "keywords" : ["slugify", "slug"],
   "version": "0.0.1",
   "repository": {
-    "url": "https://github.com/Kiernan809/slugifier.git"
+    "url": "https://github.com/Kiernan809/slugg.git"
   },
   "author" : "leekiernan (http://www.leekiernan.co.uk)",
   "main": "./lib/main",

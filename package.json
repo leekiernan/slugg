@@ -1,15 +1,15 @@
 {
-  "name": "slugg",
+  "name": "slugging",
   "description": "Couldn't find a decent slugifier.  Made own.",
   "keywords" : ["slugify", "slug"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/Kiernan809/slugg.git"
   },
   "author" : "leekiernan (http://www.leekiernan.co.uk)",
   "main": "./lib/main",
   "bin": {
-    "slugifier": "slugg.js"
+    "slugifier": "slugging.js"
   },
   "dependencies": {},
   "devDependencies": {},
